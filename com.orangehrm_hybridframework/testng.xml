@@ -4,7 +4,8 @@
   <test name="Test">
     <classes>
     <class name="com.orangehrm_hybridframework.testCases.Login_TC002" />
-      <class name="com.orangehrm_hybridframework.utility.ExcelDataProvider"/>
+    <class name="com.orangehrm_hybridframework.testCases.Dashboard_TC001" />
+     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
